@@ -1,0 +1,48 @@
+img.grid {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+header {
+    background-color: chartreuse;
+    padding: 5px
+}
+
+.navigation {
+    display: inline;
+    text-align: center;
+    padding: 10px;
+    font-family: "arial";
+
+}
+
+h1 {
+    color: mediumblue;
+    text-align: center;
+    font-family: "Impact";
+}
+
+h2 {
+    color: mediumblue;
+    font-family: "Impact";
+}
+
+footer {
+    padding: 5px;
+    background-color: chartreuse;
+}
+
+table {}
